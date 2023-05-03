@@ -12,8 +12,10 @@ for github
 
 and it was short.
 
-The end.
+(edited with ACER laptop) The end.
 
-or IS IT THE END?
+(edited with NTU HPC) or IS IT THE END?
 
-not if I have any say in the matter.
+(edited with UCR HPCC) not if I have any say in the matter.
+
+AND this line was edited with iMAC
